@@ -1,4 +1,4 @@
-# 냉장고를 부탁해
+# Refrigerator management app service
 
 ##  프로젝트 아이디어 및 배경
 - 아이디어 
